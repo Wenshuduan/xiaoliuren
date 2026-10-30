@@ -1,0 +1,19 @@
+{
+  "name": "xiaoliuren-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "小六壬 · 掌上起课（PWA + Capacitor iOS 壳）",
+  "scripts": {
+    "build": "node ../tools/build_pwa.mjs",
+    "add:ios": "npx cap add ios",
+    "sync": "npm run build && npx cap sync ios",
+    "open:ios": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.6.0",
+    "@capacitor/ios": "^8.6.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.0"
+  }
+}

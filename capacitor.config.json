@@ -1,0 +1,11 @@
+{
+	"appId": "com.xiaoliuren.app",
+	"appName": "小六壬",
+	"webDir": "web",
+	"backgroundColor": "#f7f1e5",
+	"ios": {
+		"contentInset": "always",
+		"backgroundColor": "#f7f1e5"
+	},
+	"packageClassList": []
+}

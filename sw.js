@@ -1,4 +1,4 @@
-﻿const CACHE = 'liuren-096236c7';
+﻿const CACHE = 'liuren-e4245438';
 const ASSETS = [
   './',
   './index.html',
